@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá! Eu sou o Pietro Deperon ! 👋
+## Hi there! I'm Pietro Deperon ! 👋
 
 📌 Sobre Mim
 - Estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana
