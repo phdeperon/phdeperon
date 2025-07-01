@@ -1,10 +1,12 @@
-## Olá! Eu sou o Pietro Deperon ! 👋
-## Hi there! I'm Pietro Deperon ! 👋
+# 👋 Olá, eu sou o Pietro Deperon!
+## Hi there! I'm Pietro Deperon!
 
 📌 Sobre Mim
-- Estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana
-- Aprendendo Java e Spring Boot
-- Apaixonado por desenvolvimento de software e automação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana
+💻 Aprendendo e desenvolvendo projetos com Java, Spring Boot, JavaScript, React e Next.js
+🚀 Apaixonado por desenvolvimento de software, automação e por criar soluções que fazem a diferença
+📚 Sempre em busca de novos conhecimentos e desafios no mundo da tecnologia
+- 
 
 📬 Contato
 - 📧 Email: pietro.deperon@gmail.com
