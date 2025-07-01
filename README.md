@@ -8,10 +8,6 @@
 ### 🚀 Apaixonado por **desenvolvimento de software**, **automação** e por criar soluções que fazem a diferença
 ### 📚 Sempre em busca de novos conhecimentos e desafios no mundo da tecnologia
 
----
-
-Se quiser, posso deixar o texto mais formal, técnico ou ainda mais descontraído. Quer alguma variação?
-
 📬 Contato
 - 📧 Email: pietro.deperon@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/pietro-deperon-3415062b5/
