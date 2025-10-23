@@ -1,12 +1,7 @@
 # 👋 Olá, eu sou o Pietro Deperon!
 **Hi there! I'm Pietro Deperon!**
 
-## 📌 Sobre Mim
-
-### 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Americana 
-### 💻 Aprendendo e desenvolvendo projetos com **Java**, **Spring Boot**, **JavaScript**, **React** e **Next.js**
-### 🚀 Apaixonado por **desenvolvimento de software**, **automação** e por criar soluções que fazem a diferença
-### 📚 Sempre em busca de novos conhecimentos e desafios no mundo da tecnologia
+Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultados. Atualmente curso ADS na FATEC Americana/SP e estou sempre explorando novas tecnologias, criando projetos e buscando evoluir como profissional. A cada linha de código dou mais um passo!
 
 📬 Contato
 - 📧 Email: pietro.deperon@gmail.com
