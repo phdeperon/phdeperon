@@ -5,7 +5,7 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 
 📬 Contato
 - 📧 Email: pietro.deperon@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/pietro-deperon-3415062b5/
+- 🔗 LinkedIn: https://www.linkedin.com/in/pietro-deperon
 
 <picture>
   <source
