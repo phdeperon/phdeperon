@@ -23,6 +23,7 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 🛠️ Tecnologias e Ferramentas
 - <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
- 		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
+		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" />
+		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
           
           
