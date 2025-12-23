@@ -16,7 +16,7 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
     srcset="https://github-readme-stats.vercel.app/api?username=phdeperon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=phdeperon&show_icons=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phdeperon&show_icons=true&locale=pt-br&cache_seconds=60" />
 
 </picture>
 
