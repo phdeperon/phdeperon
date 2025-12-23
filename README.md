@@ -7,26 +7,17 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 - 📧 Email: pietro.deperon@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/pietro-deperon
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=phdeperon&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=phdeperon&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=phdeperon&show_icons=true&locale=pt-br&cache_seconds=60" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdeperon&layout=compact&theme=dark&hide_border=true" />
 
-</picture>
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
 
-🛠️ Tecnologias e Ferramentas
-- <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
-		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" />
-		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
-		<img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" />
-		
+
           
           
