@@ -7,6 +7,11 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 - 📧 Email: pietro.deperon@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/pietro-deperon
 
+🎯 Foco Atual: 
+Construção de APIs escaláveis utilizando Arquitetura Hexagonal e princípios de Clean Code. 
+Atualmente aprofundando em padrões de resiliência e testes automatizados.
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdeperon&layout=compact&theme=dark&hide_border=true" />
 
 ### 🛠️ Tecnologias e Ferramentas
