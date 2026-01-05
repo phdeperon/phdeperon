@@ -11,9 +11,6 @@ Desenvolvedor back-end em formação, com sede de aprendizado e foco em resultad
 Construção de APIs escaláveis utilizando Arquitetura Hexagonal e princípios de Clean Code. 
 Atualmente aprofundando em padrões de resiliência e testes automatizados.
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdeperon&layout=compact&theme=dark&hide_border=true" />
-
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
